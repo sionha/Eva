@@ -1,0 +1,19 @@
+{
+  "name": "eva-music-bot",
+  "version": "1.0.0",
+  "description": "Discord music bot named Eva that works 24/7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "@discordjs/voice": "^0.16.0",
+    "ytdl-core": "^4.11.5",
+    "yt-search": "^2.10.4",
+    "ffmpeg-static": "^5.2.0",
+    "dotenv": "^16.0.3"
+  }
+}
