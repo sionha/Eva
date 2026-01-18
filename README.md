@@ -35,7 +35,7 @@ A Discord music bot named Eva that can play music from YouTube and work 24/7 whe
 ### Configuration
 
 1. Open `.env` file
-2. Replace `MTQ2MjM1NjY1MzQyNzkxNzAyNA.GeMCho.9OWMkP7uUnxE-ZoZrOwMEZYvTDXXX1UpfCNpmQ` with your bot token
+2. Replace with your bot token
 
 ### Running the Bot
 
@@ -84,5 +84,6 @@ To keep the bot running 24/7, host it on a cloud platform. Here are free options
 For paid options or more control, use VPS providers like DigitalOcean or Linode.
 
 ## Note
+
 
 This bot uses ytdl-core which may have issues with YouTube policies. Keep dependencies updated.
